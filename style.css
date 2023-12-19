@@ -88,7 +88,7 @@ table, caption, th, td {
 }
 
 /* Pied de page */
-#pied { padding: 10px; background-color:rgb(66, 61, 61); color:azure; }
+#pied { padding: 19px; background-color:rgb(66, 61, 61); color:azure; }
 
 /* Détails pour le menu de navigation */
 #menu li { float: left; list-style-type: none; }
